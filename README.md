@@ -45,7 +45,6 @@ def max_marks(lst):
 ## Output:
 ![model](4.png) 
 ![model](5.png) 
-![model](6.png) 
-
+![model](6.png)  
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
